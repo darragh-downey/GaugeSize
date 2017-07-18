@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GaugeSize.iml" filepath="$PROJECT_DIR$/GaugeSize.iml" />
+      <module fileurl="file://C:\Users\Darragh\AndroidStudioProjects\GaugeSize\GaugeSize.iml" filepath="C:\Users\Darragh\AndroidStudioProjects\GaugeSize\GaugeSize.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Darragh\AndroidStudioProjects\GaugeSize\app\app.iml" filepath="C:\Users\Darragh\AndroidStudioProjects\GaugeSize\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
+      <module fileurl="file://C:\Users\Darragh\AndroidStudioProjects\GaugeSize\openCVLibrary320\openCVLibrary320.iml" filepath="C:\Users\Darragh\AndroidStudioProjects\GaugeSize\openCVLibrary320\openCVLibrary320.iml" />
     </modules>
   </component>
 </project>
