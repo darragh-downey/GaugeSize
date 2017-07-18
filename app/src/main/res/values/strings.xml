@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GaugeSize</string>
+
+    <string name="picture">Capture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="take_picture">Capture</string>
+    <string name="intro_message">string intro message</string>
+</resources>
